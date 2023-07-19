@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prueba final tema 9
-date: 2023-07-19 00:53:00 +0100
+date: 2023-07-09 00:53:00 +0100
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: post-1.jpg # Add image post (optional)
 tags: [Blog, Meditation]
